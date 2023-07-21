@@ -1,0 +1,12 @@
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\refint\StringLibrary.dll
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
+D:\Centennial Lessons\0 2023 summer\COMP367 devops\visual studio object\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
